@@ -26,22 +26,21 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/vin%C3%ADcius-william-/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="119" height="42" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/williamvx__?igsh=a3E1NnAxeXhtNjU2&utm_-source=qr" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="119" height="42" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
   </a>
   <a href="https://discord.gg/Kz9ZEfnh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="119" height="42" alt="discord logo"  />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="discord logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chicowilliam&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=chicowilliam&locale=en&mode=daily&theme=aura_dark&hide_border=true&border_radius=17&date_format=j/n%5B/Y%5D&order=3" height="166" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=chicowilliam&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chicowilliam&radius=16&theme=dracula&area=true&order=5&hide_border=true&hide_title=true" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
