@@ -1,16 +1,42 @@
-## Hi there 👋
+## Hello, my name is Vinicius William
 
-<!--
-**chicowilliam/chicowilliam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Full Stack Developer based in Brazil, focused on building modern, performant and responsive web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+
+Frontend:
+- React
+- Vite
+- Tailwind CSS
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+
+Backend:
+- Node.js
+- Express
+- Helmet
+
+---
+
+### Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chicowilliam&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chicowilliam&layout=compact&theme=tokyonight)
+
+---
+
+### Projects
+
+- Movie Catalog (in development)
+- Personal Portfolio (in development)
+
+---
+
+### Contact
+
+LinkedIn: https://www.linkedin.com/
