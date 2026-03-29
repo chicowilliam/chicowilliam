@@ -3,23 +3,23 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="66" alt="typescript logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="66" alt="tailwindcss logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=aws" height="66" alt="amazonwebservices logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="66" alt="react logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="66" alt="html5 logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="66" alt="css logo"  />
-  <img width="24" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="66" alt="javascript logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="66" alt="vscode logo"  />
-  <img width="24" />
-  <img src="https://skillicons.dev/icons?i=vite" height="66" alt="vite logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="68" alt="html5 logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=ts" height="68" alt="typescript logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="68" alt="css logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="68" alt="tailwindcss logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="68" alt="javascript logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=aws" height="68" alt="amazonwebservices logo"  />
+  <img width="18" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="68" alt="react logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="68" alt="vscode logo"  />
+  <img width="18" />
+  <img src="https://skillicons.dev/icons?i=vite" height="68" alt="vite logo"  />
 </div>
 
 ###
@@ -44,6 +44,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chicowilliam/chicowilliam/output/pacman-contribution-graph-dark.svg">
