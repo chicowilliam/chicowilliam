@@ -30,10 +30,7 @@
   </a>
   <a href="https://www.instagram.com/williamvx__?igsh=a3E1NnAxeXhtNjU2&utm_-source=qr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/Kz9ZEfnh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="36" alt="discord logo"  />
-  </a>
+  
 </div>
 
 ###
